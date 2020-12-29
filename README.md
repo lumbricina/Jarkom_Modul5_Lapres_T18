@@ -2,16 +2,16 @@
 
 #### Subnetting (Pembagian IP) <br>
 - Menentukan subnet yang ada dalam topologi dan lakukan labelling netmask terhadap masing-masing subnet kemudian menggabungkan subnet-subnet sampai menjadi subnet besar. <br>
-![SubnetTopologi Modul 5](https://github.com/lumbricina/Jarkom_Modul5_Lapres_T18/blob/main/Assets/satu.PNG)
+![SubnetTopologi Modul 5](https://github.com/lumbricina/Jarkom_Modul5_Lapres_T18/blob/main/Assets/top.PNG)
 - Pembagian IP dengan pohon berdasarkan penggabungan subnet yang telah dilakukan.
-![TreeCIDR Modul5](https://github.com/lumbricina/Jarkom_Modul5_Lapres_T18/blob/main/Assets/satu.PNG) <br>
+![TreeCIDR Modul5](https://github.com/lumbricina/Jarkom_Modul5_Lapres_T18/blob/main/Assets/tree.PNG) <br>
 - Dari pohon tersebut akan mendapat pembagian IP sebagai berikut. <br>
-![Pembagian IP](https://github.com/lumbricina/Jarkom_Modul5_Lapres_T18/blob/main/Assets/satu.PNG) <br>
+![Pembagian IP](https://github.com/lumbricina/Jarkom_Modul5_Lapres_T18/blob/main/Assets/tabel.PNG) <br>
 
 ### Topologi
-![Topologi](https://github.com/lumbricina/Jarkom_Modul5_Lapres_T18/blob/main/Assets/satu.PNG) <br>
+![Topologi](https://github.com/lumbricina/Jarkom_Modul5_Lapres_T18/blob/main/Assets/topologi.PNG) <br>
 ### Route
-![Route](https://github.com/lumbricina/Jarkom_Modul5_Lapres_T18/blob/main/Assets/satu.PNG) <br>
+![Route](https://github.com/lumbricina/Jarkom_Modul5_Lapres_T18/blob/main/Assets/route.PNG) <br>
 ### No 1
 mengkonfigurasi SURABAYA menggunakan iptables, tanpa menggunakan MASQUERADE
 membuat ```satu.sh``` yang berisi </br>
